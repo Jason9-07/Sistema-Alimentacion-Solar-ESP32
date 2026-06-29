@@ -1,4 +1,3 @@
-# Sistema-Alimentacion-Solar-ESP32
 # Sistema de Alimentación Solar con ESP32
 
 ## Descripción
